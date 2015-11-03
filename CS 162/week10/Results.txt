@@ -1,0 +1,5 @@
+Using the time function, I was able to see that many of the functions we were given to use were too fast for the computer to find the correct time for
+The only one that gave me a time was my recursive function, which was a surprise.
+I expected the recursive function to take less time than the non-recursive, but I think it was because the numbers used were too small to really see the
+power of the recursive function. I think it shows that a recursive function needs to have a strong base case and has to be used for large integers
+to really be faster than a non-recursive function.

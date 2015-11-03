@@ -1,0 +1,56 @@
+Here is the test I did using my encryption program. I decided to use my name, as it would need two spaces. I also decided to do it in all lower case letters for this specific test.
+For some reason, my capital letter encryption would continously add additional characters at the end of the sequence. I could not determin why.
+Original:
+jamescarlin
+
+Copy:
+j
+a
+m
+e
+s
+c
+a
+r
+l
+i
+n
+
+
+
+Encryption:
+m
+d
+p
+h
+v
+f
+d
+u
+o
+l
+q
+
+
+
+All Capitalize:
+JAMESCARLIN
+
+Capital letter, encryption, with space:
+K
+B
+N
+F
+T
+ 
+D
+B
+S
+M
+J
+ 
+O
+
+
+
+
